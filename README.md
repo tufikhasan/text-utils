@@ -1,4 +1,6 @@
 # Getting Started with Create React App
+# Preview
+![tufikhasan-github-io-text-utils-2022-06-28-06_15_55](https://user-images.githubusercontent.com/52672268/176060605-a569a31e-a2ac-45ee-8d6a-c67e41bc1b81.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 ## Available Scripts
